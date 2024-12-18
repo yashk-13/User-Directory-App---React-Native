@@ -5,12 +5,14 @@ A modern, responsive React Native application that showcases user profiles with 
 ## ✨ Features
 
 ### 🎨 Modern UI/UX
+
 - Elegant gradient backgrounds that adapt to theme
 - Smooth transitions and animations
 - Responsive design that works across different device sizes
 - Support for both light and dark themes
 
 ### 👤 User Management
+
 - Display user profiles in a clean, card-based layout
 - Detailed user profile pages with:
   - Hero image with gradient overlay
@@ -20,11 +22,13 @@ A modern, responsive React Native application that showcases user profiles with 
   - Location information
 
 ### 🔍 Search Functionality
+
 - Real-time search through users
 - Filter by name or email
 - Smooth updates as you type
 
 ### 📱 Advanced Features
+
 - Infinite scrolling for user list
 - Pull-to-refresh functionality
 - Optimized performance with proper list rendering
@@ -47,11 +51,12 @@ A modern, responsive React Native application that showcases user profiles with 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/light-theme.png" width="200" alt="Light Theme"/>
+  <img src="screenshots/ss1.jpg" width="200" alt="Light Theme"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/dark-theme.png" width="200" alt="Dark Theme"/>
+  <img src="screenshots/ss2.jpg" width="200" alt="Dark Theme"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/user-details.png" width="200" alt="User Details"/>
+  <img src="screenshots/ss3.jpg" width="200" alt="User Details"/>
+  <img src="screenshots/ss4.jpg" width="200" alt="User Details Dark"/>
 </p>
 
 ## 🚀 Getting Started
@@ -81,21 +86,18 @@ A modern, responsive React Native application that showcases user profiles with 
    ```bash
     npx expo start
    ```
+
 ### Download APK
+
 - Expo Link - https://expo.dev/artifacts/eas/ajbTb6x6CUgbfv9FRKKxFr.apk
 
-  
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), 
+- [Expo Go](https://expo.dev/go),
 - This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-
-
-
 
 ## Learn more
 
@@ -103,5 +105,3 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-
