@@ -50,11 +50,13 @@ A modern, responsive React Native application that showcases user profiles with 
 
 ## 📱 Screenshots
 
-<p align="center">
+<p align="left">
   <img src="screenshots/ss1.jpg" width="200" alt="Light Theme"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/ss2.jpg" width="200" alt="Dark Theme"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+  <p align="left">
   <img src="screenshots/ss3.jpg" width="200" alt="User Details"/>
   <img src="screenshots/ss4.jpg" width="200" alt="User Details Dark"/>
 </p>
